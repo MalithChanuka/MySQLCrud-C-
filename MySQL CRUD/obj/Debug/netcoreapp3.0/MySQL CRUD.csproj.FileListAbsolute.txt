@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.0\MySQL CRUD.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.0\MySQL_CRUD.Form1.resources
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.0\MySQL_CRUD.Properties.Resources.resources
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.0\MySQL CRUD.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.0\MySQL CRUD.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.0\MySQL CRUD.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.0\MySQL CRUD.csproj.CoreCompileInputs.cache

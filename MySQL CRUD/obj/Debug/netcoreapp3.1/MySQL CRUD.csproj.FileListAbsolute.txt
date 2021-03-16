@@ -1,0 +1,29 @@
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL_CRUD.Properties.Resources.resources
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.AssemblyInfo.cs
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\MySQL CRUD.exe
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\MySQL CRUD.deps.json
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\MySQL CRUD.runtimeconfig.json
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\MySQL CRUD.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\MySQL CRUD.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\MySQL CRUD.pdb
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.pdb
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.genruntimeconfig.cache
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL_CRUD.FormStudentinfo.resources
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL_CRUD.Form1.resources
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL_CRUD.FormStudent.resources
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.csproj.CopyComplete
+C:\Users\Acer\source\repos\MySQL CRUD\MySQL CRUD\obj\Debug\netcoreapp3.1\MySQL CRUD.csprojAssemblyReference.cache
